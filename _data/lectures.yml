@@ -95,7 +95,9 @@
 - date: 9/24
   lecturer: LP
   title: >
-    <strong>Maximum likelihood learning of undirected GM</strong>
+    <strong>Coordinated representations</strong> <br />
+    - Deep canonical correlation analysis <br />
+    - Non-negative matrix factorization
   slides:
   annotated:
   video:
@@ -105,7 +107,10 @@
 
 - date: 9/29
   lecturer: LP
-  title: 
+  title: >
+    <strong>Multimodal alignment </strong> <br />
+    - Explicit - dynamic time warping <br />
+    - Implicit - attention models
   slides:
   annotated:
   video:
@@ -116,9 +121,9 @@
 - date: 10/1
   lecturer: LP
   title: >
-    <strong>Modeling networks</strong> <br>
-    - Gaussian graphical models <br>
-    - Ising models
+    <strong>Structured representations</strong> <br />
+    - Module networks <br />
+    - Tree-based and stack models
   slides:
   annotated:
   video:
@@ -129,9 +134,8 @@
 - date: 10/6
   lecturer: LP
   title: >
-    <strong>Sequential models</strong> <br />
-    - Discrete Hidden State (HMM vs. CRF) <br />
-    - Continuous Hidden State (Kalman Filter)
+    <strong>First project assignment</strong> <br />
+    -  (live working sessions instead of lectures)
   slides:
   annotated:
   video:
@@ -139,12 +143,11 @@
   readings:
   logistics:
 
-- title: "Module 2: Approximate Inference"
-
 - date: 10/8
   lecturer: LP
   title: >
-    <strong>Approximate Inference: Mean Field (MF) and loopy Belief Propagation (BP) approximations</strong>
+    <strong>First project assignment</strong> <br />
+    -  (live working sessions instead of lectures)
   slides:
   annotated:
   video:
