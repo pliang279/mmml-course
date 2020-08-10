@@ -9,6 +9,33 @@ title: Logistics
 
 ***
 
+### Course format
+
+Lectures will be performed Tuesdays and Thursdays at 3:20pm. Each lecture will focus on a specific
+mathematical concept related to multimodal machine learning. These lectures will be given by the
+course instructor, a guest lecturer or a TA.
+
+**Canvas:** We will use CMU Canvas as a central hub for the course. From Canvas, you can access the
+links to the live lectures (using Zoom). You can also connect to our course discussion platform
+Piazza (see more details below) and the grading platform Gradescope directly from Canvas.
+Quizzes will be done using Canvas as well.
+
+**Zoom:** We will use the Zoom video platform for the live lectures on Tuesdays and Thursdays. Links
+to the live lectures will be available on Canvas. The lectures will also be recorded to allow students
+to watch them again later on. 
+
+**Piazza:** We will be using Piazza for class communication and announcement. The system is highly
+catered to getting you help fast and efficiently from classmates, the TAs and the instructor. Rather
+than emailing questions to the teaching staff, you are encouraged to post your questions on
+Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
+accessed from the course Canvas page, or directly at this URL:
+
+https://piazza.com/cmu/fall2020/11777/home
+
+**Gradescope:** Students are asked to submit their project assignments through the website
+Gradescope. This platform will be used for grading and to handle any request for re-grading.
+Gradescope can be access from the course Canvas page.
+
 ### Textbooks
 
 The required textbook for this class is (note that the material of the class goes beyond this book):
