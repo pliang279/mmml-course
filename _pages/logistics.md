@@ -67,7 +67,22 @@ Jean-Philippe Thiran, Ferran Marqués and Hervé Bourlard. Academic Press, ISBN:
 
 #### Accommodations for Students with Disabilities
 
+If you have a disability and have an accommodations letter from the Disability Resources office, I
+encourage you to discuss your accommodations and needs with me as early in the semester as
+possible. I will work with you to ensure that accommodations are provided as appropriate. If you
+suspect that you may have a disability and would benefit from accommodations but are not yet
+registered with the Office of Disability Resources, I encourage you to contact them at 
+[access@andrew.cmu.edu](access@andrew.cmu.edu){:target="\_blank"}.
+
 #### Statement on Student Wellness
+
+As a student, you may experience a range of challenges that can interfere with learning, such as
+strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating
+and/or lack of motivation. These mental health concerns or stressful events may diminish your
+academic performance and/or reduce your ability to participate in daily activities. CMU services
+are available, and treatment does work. You can learn more about confidential mental health
+services available on campus at: [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/){:target="\_blank"}.
+Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 
 ### Bibliography
 Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
