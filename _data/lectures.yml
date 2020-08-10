@@ -1,6 +1,6 @@
 - date: 9/1
   lecturer: LP
-  title: >
+  title: Lecture 1.1:<br/>
     <strong>Course introduction</strong>
   slides:
   annotated:
@@ -14,7 +14,7 @@
 
 - date: 9/3
   lecturer: LP
-  title: >
+  title: Lecture 1.2:<br/>
     <strong>Multimodal applications and datasets</strong>
   slides:
   annotated:
@@ -28,7 +28,7 @@
 
 - date: 9/8
   lecturer: LP
-  title: >
+  title: Lecture 2.1:<br/>
     <strong>Basic concepts: neural networks</strong> <br/>
     -  Language, visual and acoustic <br/>
     - Loss functions and neural networks
@@ -41,7 +41,7 @@
 
 - date: 9/10
   lecturer: LP
-  title: >
+  title: Lecture 2.2:<br/>
     <strong>Basic concepts: network optimization</strong> <br/>
     - Gradients and backpropagation <br/>
     - Practical deep model optimization
