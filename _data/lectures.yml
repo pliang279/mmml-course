@@ -133,9 +133,7 @@
 
 - date: 10/6
   lecturer: LP
-  title: >
-    <strong>First project assignment</strong> <br />
-    -  (live working sessions instead of lectures)
+  title: "<strong>First project assignment</strong> (live working sessions instead of lectures)"
   slides:
   annotated:
   video:
@@ -145,9 +143,7 @@
 
 - date: 10/8
   lecturer: LP
-  title: >
-    <strong>First project assignment</strong> <br />
-    -  (live working sessions instead of lectures)
+  title: "<strong>First project assignment</strong> (live working sessions instead of lectures)"
   slides:
   annotated:
   video:
