@@ -1,26 +1,28 @@
 - date: 9/1
   lecturer: LP
   title: >
-    <strong>Course introduction</strong> <br/>
-    - Research and technical challenges <br/>
-    - Course syllabus and requirements
+    <strong>Course introduction</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Research and technical challenges <br/>
+    - Course syllabus and requirements
   readings:
   logistics:
 
 - date: 9/3
   lecturer: LP
   title: >
-    <strong>Multimodal applications and datasets</strong> <br/>
-    - Research tasks and datasets <br/>
-    - Team projects
+    <strong>Multimodal applications and datasets</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Research tasks and datasets <br/>
+    - Team projects
   readings:
   logistics:
 
