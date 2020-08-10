@@ -64,96 +64,94 @@ Jean-Philippe Thiran, Ferran Marqués and Hervé Bourlard. Academic Press, ISBN:
 ### Project Assignments and Timeline
 
 (See Piazza for additional information)
-• **Dataset preferences** (Due on Tuesday 9/8 at 11:59pm ET) – Let us know your preferences for
+- **Dataset preferences** (Due on Tuesday 9/8 at 11:59pm ET) – Let us know your preferences for
 the datasets that you would like to use for the course project. This will help with the team
 matching process.
-• **Project Pre-proposal** (Due on Wednesday 9/16 at 11:59pm ET) – You should have selected
+- **Project Pre-proposal** (Due on Wednesday 9/16 at 11:59pm ET) – You should have selected
 your teammates, dataset, and task. Submit a 1-page pre-proposal plan.
-• **First assignment** (Due on Sunday 10/11 at 11:59pm ET) – This assignment focuses on unimodal
+- **First assignment** (Due on Sunday 10/11 at 11:59pm ET) – This assignment focuses on unimodal
 representations and requires a good literature review on the topic of your proposed project
-• **Midterm assignment** (Due on Sunday 11/14 at 11:59pm ET) – Students are asked to
+- **Midterm assignment** (Due on Sunday 11/14 at 11:59pm ET) – Students are asked to
 implement and evaluate state-of-the-art baseline models on their project dataset.
-• **Final assignment** (Due on Sunday 12/13 at 11:59pm ET) – Students should explore new ideas
+- **Final assignment** (Due on Sunday 12/13 at 11:59pm ET) – Students should explore new ideas
 to model their multimodal research project.
 
 ### Grading
 
-Grading breakdown
-o Lecture participation and mini-quizzes 15%
-o Reading assignments and question sets 15%
-o Course project assignments:
-▪ Project preferences and pre-proposal 5%
-▪ First project assignment and presentation 15%
-▪ Mid-term project assignment and presentation 20%
-▪ Final project assignment and presentation 30%
-• Lecture participation and mini-quizzes
-o Lectures can be attended live (using Zoom) or watched later. Students are encouraged
+- Grading breakdown
+  - Lecture participation and mini-quizzes 15%
+  - Reading assignments and question sets 15%
+  - Course project assignments:
+    - Project preferences and pre-proposal 5%
+    - First project assignment and presentation 15%
+    - Mid-term project assignment and presentation 20%
+    - Final project assignment and presentation 30%
+- Lecture participation and mini-quizzes
+  - Lectures can be attended live (using Zoom) or watched later. Students are encouraged
 to attend lectures live as often as possible, to allow them to ask clarification questions,
 if needed. Questions can also be posted on Piazza.
-o Mini-quizzes are designed to be relatively simple. If students took the time to watch
+  - Mini-quizzes are designed to be relatively simple. If students took the time to watch
 both weekly lectures, it should be easy for them to answer the questions. It should be
 noted that simply reading the slide document is not considered sufficient. Students are
 expected to watch all lectures (live or recorded).
-o These weekly mini-quizzes will be usually (but not always) released after the Thursday
+  - These weekly mini-quizzes will be usually (but not always) released after the Thursday
 lecture and students will have 48 hours to complete them. No mini-quizzes are
 expected for weeks when a project assignment (first, midterm or final) is due. No miniquiz during the first week and during Thanksgiving week.
-▪ We expect 10 mini-quizzes this semester.
-o Each mini-quiz is worth 1.5 points, for a total of 15 points.
-• Reading assignments and question sets
-o Reading assignments are designed to complement the lectures and showcase recent
+    - We expect 10 mini-quizzes this semester.
+  - Each mini-quiz is worth 1.5 points, for a total of 15 points.
+- Reading assignments and question sets
+  - Reading assignments are designed to complement the lectures and showcase recent
 state-of-the-art research. Most reading assignments will consist of 2 research papers,
 sometime accompanied of optional readings, and a set of 2 or 3 questions. The
 questions are designed to help you think about the concepts expressed in the papers. 
-5
-o The expectation is that you answer 2 out of 3 questions (or 1 out of 2 questions if
+  - The expectation is that you answer 2 out of 3 questions (or 1 out of 2 questions if
 there is only one paper that week). Each answer should be about 1 long paragraph (6-8
 lines). All you answered should be submitted together before Monday 8pm ET on
 Gradescope.
-o Reading assignments will be per released weekly, with exceptions when a project
+  - Reading assignments will be per released weekly, with exceptions when a project
 assignment (first, midterm or final) is due the same week. Also, no reading
 assignments during the first week and during Thanksgiving week.
-▪ We expect students to read approximately 15 research papers, as part of the
+    - We expect students to read approximately 15 research papers, as part of the
 10 reading assignments this semester.
-o Each reading assignment is worth 2 point when two papers are included, or 1 point
+  - Each reading assignment is worth 2 point when two papers are included, or 1 point
 when only one paper is included. In other words:
-▪ If the question set was designed for two research papers, then your combined
+    - If the question set was designed for two research papers, then your combined
 answers will be worth two points.
-▪ If the question set was designed for only one research paper, then your
+    - If the question set was designed for only one research paper, then your
 answer will be wort one point.
-• Course project:
-o The goal of the course project is to experiment with state-of-the-art multimodal
+- Course project:
+  - The goal of the course project is to experiment with state-of-the-art multimodal
 algorithms and computational models.
-o Students should create teams between 3 to 5 students preferably (special approval will
+  - Students should create teams between 3 to 5 students preferably (special approval will
 be required for larger teams; no smaller teams will be allowed). The size and depth of
 the project should be adjusted to reflect the size of the team.
-o Each team is required to create a code repository (github) for their project. All project
+  - Each team is required to create a code repository (github) for their project. All project
 members should be included in this project and should actively use it. It is important
 that all team members participate equally to the project. The first project assignment
 and follow-up reports (midterm and final reports) will need to outline the tasks of each
 student. If any team member has concern in the participation level of other members,
 they should contact the instructor and/or TA as promptly as possible.
-o Students have flexibility in the selection of their project topic. The project should be
+  - Students have flexibility in the selection of their project topic. The project should be
 directly aligned with the course content and include at the minimum two modalities.
 At the beginning of the semester, the instructor will propose a set of research
 problems and datasets which can be used for the course projects.
-o Pre-proposal: We ask students to prepare a pre-proposal early in the semester to
+  - Pre-proposal: We ask students to prepare a pre-proposal early in the semester to
 them establish their research topic for the course project. The pre-proposal will also
 help with team formation, in the rare eventuality when students are still looking for
 teammates.
-o First project assignment: The first project assignment consists of a written report and
+  - First project assignment: The first project assignment consists of a written report and
 an oral presentation (which will be performed remotely, with pre-recorded videos).
 This assignment has two main goals: describe in more details the plan for the course
 project (aka., “proposal”) and perform some unimodal analyses on the multimodal
 dataset and problem. Feedback will be given by instructors as well as other students
 from the course.
-o Midterm project assignment: The midterm project assignment is designed to
+  - Midterm project assignment: The midterm project assignment is designed to
 implement multimodal baseline models and perform some error analysis on these
 results. This assignment also has two components: written report and oral
 presentation. By the submission time for the midterm assignment, students should
 have already implemented some of the state-of-the-art baseline models for their
 selected multimodal task and dataset.
-6
-o Final project assignment: Using the same dataset and task selected for the midterm
+  - Final project assignment: Using the same dataset and task selected for the midterm
 report, the final project assignment is designed to explore new research ideas. This
 assignment is not graded based on the quality of the results, but instead on the
 exploration of new ideas (e.g., better accuracy results will not mean better course
