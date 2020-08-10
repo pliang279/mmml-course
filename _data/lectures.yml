@@ -130,24 +130,12 @@
   logistics:
 
 - date: 10/6
-  lecturer: LP
+  lecturer:
   title: "<strong>First project assignment</strong> (live working sessions instead of lectures)"
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 10/8
-  lecturer: LP
+  lecturer:
   title: "<strong>First project assignment</strong> (live working sessions instead of lectures)"
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 10/13
   lecturer: LP
@@ -254,24 +242,12 @@
   logistics:
 
 - date: 11/10
-  lecturer: LP
+  lecturer:
   title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 11/12
-  lecturer: LP
+  lecturer:
   title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 11/17
   lecturer: Guest lecture
@@ -300,22 +276,10 @@
 - date: 11/24
   lecturer:
   title: <strong>Thanksgiving week</strong> (no lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 11/26
   lecturer:
   title: <strong>Thanksgiving week</strong> (no lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 12/1
   lecturer: Guest lecture
@@ -343,19 +307,7 @@
 - date: 12/8
   lecturer:
   title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
 
 - date: 12/10
   lecturer:
   title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
-  slides:
-  annotated:
-  video:
-  notes:
-  readings:
-  logistics:
