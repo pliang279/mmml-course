@@ -49,6 +49,9 @@ title: Schedule
         ]
     </td>
     <td>
+        <p>{{ lecture.topics }}</p>
+    </td>
+    <td>
         {% if lecture.readings %}
         <ul>
         {% for reading in lecture.readings %}
