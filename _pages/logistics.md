@@ -72,7 +72,7 @@ encourage you to discuss your accommodations and needs with me as early in the s
 possible. I will work with you to ensure that accommodations are provided as appropriate. If you
 suspect that you may have a disability and would benefit from accommodations but are not yet
 registered with the Office of Disability Resources, I encourage you to contact them at 
-[access@andrew.cmu.edu](access@andrew.cmu.edu){:target="\_blank"}.
+[access@andrew.cmu.edu](mailto:access@andrew.cmu.edu){:target="\_blank"}.
 
 #### Statement on Student Wellness
 
