@@ -1,5 +1,3 @@
-- title: "Module 1: Introduction, Representation, and Exact Inference"
-
 - date: 9/1
   lecturer: LP
   title: >
@@ -154,7 +152,9 @@
 - date: 10/13
   lecturer: LP
   title: >
-    <strong>Theory of Variational Inference: Inner and Outer Approximations</strong>
+    <strong>Alignment and representation</strong> <br />
+    - Multi-head attention <br />
+    - Multimodal transformers
   slides:
   annotated:
   video:
@@ -165,7 +165,9 @@
 - date: 10/15
   lecturer: LP
   title: >
-    <strong>Approximate Inference: Monte Carlo and Sequential Monte Carlo methods</strong>
+    <strong>Probabilistic graphical models</strong> <br />
+    - Dynamic Bayesian networks <br />
+    - Coupled and factor HMMs
   slides:
   annotated:
   video:
@@ -174,12 +176,11 @@
   logistics:
 
 - date: 10/20
-  lecturer: LP
+  lecturer: Paul
   title: >
-    <strong>Markov Chain Monte Carlo</strong> <br />
-    - Metropolis-Hastings <br />
-    - Hamiltonian Monte Carlo <br />
-    - Langevin Dynamics
+    <strong>Reinforcement learning</strong> <br />
+    - Markov decision process <br />
+    - Q learning and policy gradients
   slides:
   annotated:
   video:
@@ -187,14 +188,12 @@
   readings:
   logistics:
 
-- title: "Module 3: Deep Learning &amp; Generative Models"
-
 - date: 10/22
-  lecturer: LP
+  lecturer: Paul
   title: >
-    <strong>Statistical and Algorithmic Foundations of Deep Learning</strong> <br />
-    - Insight into DL <br />
-    - Connections to GM
+    <strong>Multimodal RL</strong> <br />
+    - Deep Q learning <br />
+    - Multimodal applications
   slides:
   annotated:
   video:
@@ -203,19 +202,37 @@
   logistics:
 
 - date: 10/27
-  title: No classes (Spring break)
+  lecturer: LP
+  title: >
+    <strong>Discriminative graphical models</strong> <br />
+    - Conditional random fields <br />
+    - Continuous and fully-connected CRFs
+  slides:
+  annotated:
+  video:
+  notes:
+  readings:
+  logistics:
 
 - date: 10/29
-  title: No classes (Spring break)
+  lecturer: LP
+  title: >
+    <strong>Multimodal Translation</strong> <br />
+    - Language and vision <br />
+    - Multimodal QA models
+  slides:
+  annotated:
+  video:
+  notes:
+  readings:
+  logistics:
 
 - date: 11/3
   lecturer: LP
   title: >
-    <strong>Building blocks of DL</strong> <br />
-    - RNN and LSTM <br />
-    - CNN, Transformers <br />
-    - Attention mechanisms <br />
-    - (Case studies in NLP)
+    <strong>Fusion, co-learning and new directions</strong> <br />
+    - Multi-kernel learning and fusion <br />
+    - Recent approaches in multimodal ML
   slides:
   annotated:
   video:
@@ -224,14 +241,11 @@
   logistics:
 
 - date: 11/5
-  lecturer: LP
+  lecturer: Paul
   title: >
-    <strong>Deep generative models (part 1): <br />
-    Overview of the theoretical basis and connections of deep generative models</strong> <br />
-    - Wake sleep algorithm <br />
-    - Variational autoencoders <br />
-    - Generative adversarial networks <br />
-    - A unified view of DGM
+    <strong>Generative models and new directions </strong> <br />
+    - Variational auto-encoder <br />
+    - Recent approaches in multimodal ML
   slides:
   annotated:
   video:
@@ -241,11 +255,7 @@
 
 - date: 11/10
   lecturer: LP
-  title: >
-    <strong>Deep generative models (part 2)</strong> <br />
-    - GANs and their variations <br />
-    - Normalizing Flows <br />
-    - Integrating domain knowledge in DL
+  title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
   slides:
   annotated:
   video:
@@ -255,11 +265,7 @@
 
 - date: 11/12
   lecturer: LP
-  title: >
-    <strong>Case Study: Text Generation</strong> <br />
-    - The encoder-decoder framework <br />
-    - Machine translation as conditional generation <br />
-    - Unifying MLE and RL objectives for text generation
+  title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
   slides:
   annotated:
   video:
@@ -267,15 +273,11 @@
   readings:
   logistics:
 
-- title: "Module 4: Reinforcement Learning &amp; Control Through Inference in GM"
-
 - date: 11/17
-  lecturer: LP
+  lecturer: Guest lecture
   title: >
-    <strong>Sequential decision making (part 1): The framework</strong> <br />
-    - Brief introduction to reinforcement learning (RL) <br />
-    - Connections to GM: RL and control as inference <br />
-    - Control via Variational Inference
+    <strong>Language, vision and action</strong> <br />
+    - Multimodal representations and RL
   slides:
   annotated:
   video:
@@ -284,12 +286,10 @@
   logistics:
 
 - date: 11/19
-  lecturer: LP
+  lecturer: Guest lecture
   title: >
-    <strong>Sequential decision making (part 2): The algorithms</strong> <br />
-    - Intro to RL algorithms: policy gradients and Q-learning <br />
-    - Max-entropy policy gradient <br />
-    - Soft Q-learning
+    <strong>Multilingual representations</strong> <br />
+    - Neural machine translation
   slides:
   annotated:
   video:
@@ -297,14 +297,9 @@
   readings:
   logistics:
 
-- title: "Module 5: Nonparametric methods"
-
 - date: 11/24
-  lecturer: Eric
-  title: >
-    <strong>Bayesian non-parameterics</strong> <br />
-    - Dirichlet Process (DP) <br />
-    - Indian Buffet Process (IBP)
+  lecturer:
+  title: <strong>Thanksgiving week</strong> (no lectures)
   slides:
   annotated:
   video:
@@ -313,12 +308,8 @@
   logistics:
 
 - date: 11/26
-  lecturer: Maruan
-  title: >
-    <strong>Bayesian non-parameterics (continued)</strong> <br />
-    - Inference in Dirichlet Process (DP) <br />
-    - Hierarchical Dirichlet Process (HDP) <br />
-    - Indian Buffet Process (IBP)
+  lecturer:
+  title: <strong>Thanksgiving week</strong> (no lectures)
   slides:
   annotated:
   video:
@@ -329,7 +320,8 @@
 - date: 12/1
   lecturer: Guest lecture
   title: >
-    <strong>Multimodal affective computing</strong>
+    <strong>Multimodal affective computing</strong> <br />
+    - Emotion and sentiment analysis
   slides:
   annotated:
   video:
@@ -349,32 +341,21 @@
   logistics:
 
 - date: 12/8
-  lecturer: Maruan
-  title: >
-    <strong>Gaussian processes (GPs) and elements of meta-learning</strong> <br />
-    - Gaussian Processes (GPs) and kernel functions <br />
-    - (Deep) kernel learning and approximations <br />
-    - Neural Processes (NPs) as an approximation to GPs <br />
-    - Elements of meta-learning
+  lecturer:
+  title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
   slides:
   annotated:
   video:
   notes:
   readings:
   logistics:
-
-- title: "Module 6: Modular and scalable algorithms and systems"
 
 - date: 12/10
-  lecturer: Guest lecture
-  title: >
-    <strong>Scalable algorithms and systems for learning, inference, and prediction</strong>
+  lecturer:
+  title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
   slides:
   annotated:
   video:
   notes:
   readings:
   logistics:
-
-- date: 4/30
-  title: "Project presentations (NSH attrium, 2:30-5:30 pm)"
