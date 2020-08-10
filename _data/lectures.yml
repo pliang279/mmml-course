@@ -1,46 +1,47 @@
 - title: "Module 1: Introduction, Representation, and Exact Inference"
 
-- date: 1/14
-  lecturer: Eric
+- date: 9/1
+  lecturer: LP
   title: >
-    <strong>Introduction to GM</strong>
-  slides: "https://drive.google.com/file/d/1szM2TsiL8tNYU-MlyTv4vxiFWRitZ_NS"
-  annotated: "https://drive.google.com/file/d/1McR2fT6qGooQXMLVhOHSQsQ14lcKJKtP"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bab0b8be-a86f-4a46-9dae-a9d0012950cb"
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-01/"
+    <strong>Course introduction</strong>
+  slides:
+  annotated:
+  video:
+  notes:
   readings:
-    - Jordan, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/reading/graphical_model_Jordan.pdf" target="_blank">Graphical Models</a>
-    - E. Airoldi, <a href="https://dash.harvard.edu/bitstream/handle/1/2757496/Airoldi_GettingStarted.pdf" target="_blank">Getting Started in Probabilistic Graphical Models</a>
   logistics:
 
-- date: 1/16
-  lecturer: Eric
+- date: 9/3
+  lecturer: LP
   title: >
-    <strong>Representation: Directed GMs (BNs)</strong>
-  slides: "https://drive.google.com/open?id=1pl_IeC4N11IUMAyJnPcT_HDLHBVfB4Qx"
-  annotated: "https://drive.google.com/open?id=1OLREY-CC8OIZfY_8G1lEdqzSMsNZXHTe"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=388ec3f4-de78-4f5e-b5ca-a9d001296630"
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-02/"
+    <strong>Multimodal applications and datasets</strong>
+  slides:
+  annotated:
+  video:
+  notes:
   readings:
-    - Jordan Textbook, <a href="https://people.eecs.berkeley.edu/~jordan/prelims/chapter2.pdf" target="_blank">Ch. 2</a> (Sec. 2.1)
-    - Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch%203.pdf" target="_blank">Ch. 3</a>
   logistics:
 
-- date: 1/21
-  title: No class (MLK day)
+- date: 9/8
+  lecturer: LP
+  title: >
+    <strong>Basic concepts: network optimization</strong>
+  slides:
+  annotated:
+  video:
+  notes:
+  readings:
+  logistics:
 
-- date: 1/23
-  lecturer: Eric
+- date: 9/10
+  lecturer: LP
   title: >
     <strong>Representation: Undirected GMs (MRFs)</strong>
-  slides: "https://drive.google.com/open?id=10-YQcNcpEETh8GAbrm2Oc4jFFO5J6q1B"
-  annotated: "https://drive.google.com/open?id=18ZfonufLq-SvXkdITONQkh7rWt9fywxZ"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=702de16d-fb04-4906-9014-a9d0012983e2"
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-03/"
+  slides:
+  annotated:
+  video:
+  notes:
   readings:
-    - Jordan Textbook, Ch. 2 (Sec. 2.2 - end)
-    - Koller and Friedman Textbook, <a href="http://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch%204.pdf" target="_blank">Ch. 4</a>
-    - A. Fischer and C. Igel, <a href="https://pdfs.semanticscholar.org/dd13/5a89b5075af5cbef5becaf419457cdd77cc9.pdf" target="_blank">An Introducton to Restricted Boltzmann Machines</a>
   logistics:
 
 - date: 1/28
@@ -50,17 +51,12 @@
     - Elimination <br />
     - Message passing <br />
     - Sum product algorithm
-  slides: "https://drive.google.com/open?id=1CB0FIvx30B8zZYPLxirZNBxPgAR0Nj8K"
-  annotated: "https://drive.google.com/open?id=17rDMZ_fCWCYt4z2nsIDsmQTJfMuuhBrc"
-  video: "https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=61db95f2-aec1-415d-9180-a9d0012992fe"
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-04/"
+  slides:
+  annotated:
+  video:
+  notes:
   readings:
-    - Jordan Textbook, Ch. <a href="https://people.eecs.berkeley.edu/~jordan/prelims/chapter3.pdf" target="_blank">3</a> and <a href="https://people.eecs.berkeley.edu/~jordan/prelims/chapter4.pdf" target="_blank">4</a>
-    - Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch9.1-9.4.pdf" target="_blank">Ch. 9</a>, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch10.1-10.3.pdf" target="_blank">Ch. 10</a>
-    - Tom Minka, <a href="https://www.seas.harvard.edu/courses/cs281/papers/minka-divergence.pdf" target="_blank">Divergence measures and message passing</a>
-
-  logistics: >
-    <span class="event">HW1 out (Mon, 1/28)</span>
+  logistics:
 
 - date: 1/30
   lecturer: skipped
@@ -69,15 +65,11 @@
     - Generalized Linear Models (GLIMs) <br />
     - Maximum Likelihood Estimation (MLE) <br />
     - Markov Models
-  slides: "https://drive.google.com/open?id=1OrnH0oxvWUa6lsJJMeuhmrjBpW1sUDvV"
+  slides:
   annotated:
   video:
-  notes: "https://sailinglab.github.io/pgm-spring-2019/notes/lecture-05/"
+  notes:
   readings:
-    - Jordan Textbook, Ch. 8, 9 (Sec. 9.1 - 9.2)
-    - Koller and Friedman Textbook, <a href="https://www.cs.cmu.edu/~epxing/Class/10708-17/readings/Ch17.1-17.4.pdf" target="_blank">Ch. 17 (Sections 17.1 - 17.4)</a>
-    - Geiger and Heckerman, <a href="https://projecteuclid.org/euclid.aos/1035844981" target="_blank">Parameter priors for directed acyclic graphical models and the characterization of several probability distributions</a>
-    - Geiger and Heckerman, <a href="https://projecteuclid.org/euclid.aos/1069362752" target="_blank">A characterization of the Dirichlet distribution through global and local parameter independence</a>
   logistics:
 
 - date: 2/4
