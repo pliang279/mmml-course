@@ -30,7 +30,7 @@ than emailing questions to the teaching staff, you are encouraged to post your q
 Piazza. You can post privately to the instructor and TAs through Piazza website. Piazza can be
 accessed from the course Canvas page, or directly at this URL:
 
-[https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2020/11777/home){:target="\_blank"}
+[https://piazza.com/cmu/fall2020/11777/home](https://piazza.com/cmu/fall2020/11777/home)
 
 **Gradescope:** Students are asked to submit their project assignments through the website
 Gradescope. This platform will be used for grading and to handle any request for re-grading.
@@ -46,7 +46,7 @@ have already free access to these digital archives.
 
 **Optional:**
 - Deep Learning, Ian Goodfellow, Yoshua Bengio and Aaron Courville, MIT Press, 2016 (freely
-available at [http://www.deeplearningbook.org](http://www.deeplearningbook.org){:target="\_blank"})
+available at [http://www.deeplearningbook.org](http://www.deeplearningbook.org))
 - The Handbook of Multimodal-Multisensor Interfaces, Sharon Oviatt, Bjoern Schuller, Philip R.
 Cohen, Daniel Sonntag, Gerasimos Potamianos and Antonio Kruger, Volumes 1, 2 and 3, 2017-
 2019 (available through CMU Library online)
@@ -165,7 +165,7 @@ encourage you to discuss your accommodations and needs with me as early in the s
 possible. I will work with you to ensure that accommodations are provided as appropriate. If you
 suspect that you may have a disability and would benefit from accommodations but are not yet
 registered with the Office of Disability Resources, I encourage you to contact them at 
-[access@andrew.cmu.edu](mailto:access@andrew.cmu.edu){:target="\_blank"}.
+[access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
 
 #### Statement on Student Wellness
 
@@ -174,13 +174,13 @@ strained relationships, increased anxiety, substance use, feeling down, difficul
 and/or lack of motivation. These mental health concerns or stressful events may diminish your
 academic performance and/or reduce your ability to participate in daily activities. CMU services
 are available, and treatment does work. You can learn more about confidential mental health
-services available on campus at: [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/){:target="\_blank"}.
+services available on campus at: [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/).
 Support is always available (24/7) from Counseling and Psychological Services: 412-268-2922.
 
 ### Bibliography
 Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
 
-- [https://piazza.com/cmu/fall2018/11777/resources](https://piazza.com/cmu/fall2018/11777/resources){:target="\_blank"}
-- [https://piazza.com/cmu/fall2019/11777/resources](https://piazza.com/cmu/fall2019/11777/resources){:target="\_blank"}
+- [https://piazza.com/cmu/fall2018/11777/resources](https://piazza.com/cmu/fall2018/11777/resources)
+- [https://piazza.com/cmu/fall2019/11777/resources](https://piazza.com/cmu/fall2019/11777/resources)
 
 The reading list for Fall 2020 semester will also be posted on Piazza website.
