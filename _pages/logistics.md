@@ -71,7 +71,8 @@ Jean-Philippe Thiran, Ferran Marqués and Hervé Bourlard. Academic Press, ISBN:
 
 ### Bibliography
 Reading lists from Fall 2018 and Fall 2019 courses are available on Piazza:
-https://piazza.com/cmu/fall2018/11777/resources
-https://piazza.com/cmu/fall2019/11777/resources
+
+[https://piazza.com/cmu/fall2018/11777/resources](https://piazza.com/cmu/fall2018/11777/resources){:target="\_blank"}
+[https://piazza.com/cmu/fall2019/11777/resources](https://piazza.com/cmu/fall2019/11777/resources){:target="\_blank"}
 
 The reading list for Fall 2020 semester will also be posted on Piazza website.
