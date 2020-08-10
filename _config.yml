@@ -1,10 +1,10 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: Multicomp lab
+author: CMU Multicomp Lab
 name: 11-777 MML
 title: Multimodal Machine Learning
-email: morency@cs.cmu.edu
+email:
 description: >
   11-777 - Multimodal Machine Learning - Carnegie Mellon University - Fall 2020
 footer_text: >
