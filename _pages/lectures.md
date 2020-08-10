@@ -23,7 +23,7 @@ title: Schedule
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.title contains 'No class' or forloop.last %}
+    {% if lecture.title contains 'lectures' or forloop.last %}
     {% assign skip_classes = skip_classes | plus: 1 %}
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
@@ -46,11 +46,6 @@ title: Schedule
             | <a href="{{ lecture.video }}" target="_blank">video</a>
             {% else %}
             | video
-            {% endif %}
-            {% if lecture.notes %}
-            | <a href="{{ lecture.notes }}" target="_blank">notes</a>
-            {% else %}
-            | notes
             {% endif %}
         ]
     </td>
