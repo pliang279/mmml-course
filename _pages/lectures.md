@@ -28,8 +28,6 @@ title: Schedule
     <td colspan="4" align="center">{{ lecture.title }}</td>
     {% else %}
     <td>
-        Lecture #{{ forloop.index | minus: current_module | minus: skip_classes }}:
-        <br />
         {{ lecture.title }}
         <br />
         [
