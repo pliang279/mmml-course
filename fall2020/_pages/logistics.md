@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /logistics/
+permalink: /fall2020/logistics/
 title: Logistics
 ---
 
