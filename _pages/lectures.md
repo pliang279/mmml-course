@@ -1,6 +1,6 @@
 ---
 layout: schedule
-permalink: /lectures/
+permalink: /fall2020/lectures/
 title: Schedule
 ---
 
