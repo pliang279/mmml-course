@@ -85,87 +85,93 @@
 - date: 9/22
   lecturer: LP
   title: >
-    <strong>Multimodal representation learning</strong> <br />
-    - Mixture models <br />
-    - Hidden Markov Models (HMMs) <br />
-    - The EM algorithm
+    4.1: <strong>Multimodal representation learning</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Mixture models <br />
+    - Hidden Markov Models (HMMs) <br />
+    - The EM algorithm
   readings:
   logistics:
 
 - date: 9/24
   lecturer: LP
   title: >
-    <strong>Coordinated representations</strong> <br />
-    - Deep canonical correlation analysis <br />
-    - Non-negative matrix factorization
+    4.2: <strong>Coordinated representations</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Deep canonical correlation analysis <br />
+    - Non-negative matrix factorization
   readings:
   logistics:
 
 - date: 9/29
   lecturer: LP
   title: >
-    <strong>Multimodal alignment </strong> <br />
-    - Explicit - dynamic time warping <br />
-    - Implicit - attention models
+    5.1: <strong>Multimodal alignment </strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Explicit - dynamic time warping <br />
+    - Implicit - attention models
   readings:
   logistics:
 
 - date: 10/1
   lecturer: LP
   title: >
-    <strong>Structured representations</strong> <br />
-    - Module networks <br />
-    - Tree-based and stack models
+    5.2: <strong>Structured representations</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Module networks <br />
+    - Tree-based and stack models
   readings:
   logistics:
 
 - date: 10/6
   lecturer:
-  title: <strong>First project assignment</strong> (live working sessions instead of lectures)
+  title: 6.1: <strong>First project assignment</strong> (live working sessions instead of lectures)
 
 - date: 10/8
   lecturer:
-  title: <strong>First project assignment</strong> (live working sessions instead of lectures)
+  title: 6.2: <strong>First project assignment</strong> (live working sessions instead of lectures)
 
 - date: 10/13
   lecturer: LP
   title: >
-    <strong>Alignment and representation</strong> <br />
-    - Multi-head attention <br />
-    - Multimodal transformers
+    7.1: <strong>Alignment and representation</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Multi-head attention <br />
+    - Multimodal transformers
   readings:
   logistics:
 
 - date: 10/15
   lecturer: LP
   title: >
-    <strong>Probabilistic graphical models</strong> <br />
-    - Dynamic Bayesian networks <br />
-    - Coupled and factor HMMs
+    7.2: <strong>Probabilistic graphical models</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Dynamic Bayesian networks <br />
+    - Coupled and factor HMMs
   readings:
   logistics:
 
