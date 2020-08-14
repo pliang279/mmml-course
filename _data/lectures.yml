@@ -3,7 +3,6 @@
   title: >
     1.1: <strong>Course introduction</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -17,7 +16,6 @@
   title: >
     1.2: <strong>Multimodal applications and datasets</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -31,7 +29,6 @@
   title: >
     2.1: <strong>Basic concepts: neural networks</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -45,7 +42,6 @@
   title: >
     2.2: <strong>Basic concepts: network optimization</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -59,7 +55,6 @@
   title: >
     3.1: <strong>Convolutional neural networks</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -73,7 +68,6 @@
   title: >
     3.2: <strong>Recurrent neural networks</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -87,7 +81,6 @@
   title: >
     4.1: <strong>Multimodal representation learning</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -102,7 +95,6 @@
   title: >
     4.2: <strong>Coordinated representations</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -116,7 +108,6 @@
   title: >
     5.1: <strong>Multimodal alignment </strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -130,7 +121,6 @@
   title: >
     5.2: <strong>Structured representations</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -152,7 +142,6 @@
   title: >
     7.1: <strong>Alignment and representation</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -166,7 +155,6 @@
   title: >
     7.2: <strong>Probabilistic graphical models</strong>
   slides:
-  annotated:
   video:
   notes:
   topics:
@@ -178,137 +166,145 @@
 - date: 10/20
   lecturer: Paul
   title: >
-    <strong>Reinforcement learning</strong> <br />
-    - Markov decision process <br />
-    - Q learning and policy gradients
+    8.1: <strong>Reinforcement learning</strong>
   slides:
-  annotated:
   video:
   notes:
+  topics:
+    - Markov decision process <br />
+    - Q learning and policy gradients
   readings:
   logistics:
 
 - date: 10/22
   lecturer: Paul
   title: >
-    <strong>Multimodal RL</strong> <br />
-    - Deep Q learning <br />
-    - Multimodal applications
+    8.2: <strong>Multimodal RL</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Deep Q learning <br />
+    - Multimodal applications
   readings:
   logistics:
 
 - date: 10/27
   lecturer: LP
   title: >
-    <strong>Discriminative graphical models</strong> <br />
-    - Conditional random fields <br />
-    - Continuous and fully-connected CRFs
+    9.1: <strong>Discriminative graphical models</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Conditional random fields <br />
+    - Continuous and fully-connected CRFs
   readings:
   logistics:
 
 - date: 10/29
   lecturer: LP
   title: >
-    <strong>Multimodal Translation</strong> <br />
-    - Language and vision <br />
-    - Multimodal QA models
+    9.2: <strong>Multimodal Translation</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Language and vision <br />
+    - Multimodal QA models
   readings:
   logistics:
 
 - date: 11/3
   lecturer: LP
   title: >
-    <strong>Fusion, co-learning and new directions</strong> <br />
-    - Multi-kernel learning and fusion <br />
-    - Recent approaches in multimodal ML
+    10.1: <strong>Fusion, co-learning and new directions</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Multi-kernel learning and fusion <br />
+    - Recent approaches in multimodal ML
   readings:
   logistics:
 
 - date: 11/5
   lecturer: Paul
   title: >
-    <strong>Generative models and new directions </strong> <br />
-    - Variational auto-encoder <br />
-    - Recent approaches in multimodal ML
+    10.2: <strong>Generative models and new directions </strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Variational auto-encoder <br />
+    - Recent approaches in multimodal ML
   readings:
   logistics:
 
 - date: 11/10
   lecturer:
-  title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
+  title: 11.1: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
 
 - date: 11/12
   lecturer:
-  title: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
+  title: 11.2: <strong>Mid-term project assignment </strong>(live working sessions instead of lectures)
 
 - date: 11/17
   lecturer: Guest lecture
   title: >
-    <strong>Language, vision and action</strong> <br />
-    - Multimodal representations and RL
+    12.1: <strong>Language, vision and action</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Multimodal representations and RL
   readings:
   logistics:
 
 - date: 11/19
   lecturer: Guest lecture
   title: >
-    <strong>Multilingual representations</strong> <br />
-    - Neural machine translation
+    12.2: <strong>Multilingual representations</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Neural machine translation
   readings:
   logistics:
 
 - date: 11/24
   lecturer:
-  title: <strong>Thanksgiving week</strong> (no lectures)
+  title: 13.1: <strong>Thanksgiving week</strong> (no lectures)
 
 - date: 11/26
   lecturer:
-  title: <strong>Thanksgiving week</strong> (no lectures)
+  title: 13.2: <strong>Thanksgiving week</strong> (no lectures)
 
 - date: 12/1
   lecturer: Guest lecture
   title: >
-    <strong>Multimodal affective computing</strong> <br />
-    - Emotion and sentiment analysis
+    14.1: <strong>Multimodal affective computing</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Emotion and sentiment analysis
   readings:
   logistics:
 
 - date: 12/3
   lecturer: Guest lecture
   title: >
-    <strong>New research directions</strong>
+    14.2: <strong>New research directions</strong>
   slides:
   annotated:
   video:
@@ -318,8 +314,8 @@
 
 - date: 12/8
   lecturer:
-  title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
+  title: 15.1: <strong>Final project assignment</strong> (live working sessions instead of lectures)
 
 - date: 12/10
   lecturer:
-  title: <strong>Final project assignment</strong> (live working sessions instead of lectures)
+  title: 15.2: <strong>Final project assignment</strong> (live working sessions instead of lectures)
