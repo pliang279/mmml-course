@@ -168,7 +168,6 @@
   title: >
     8.2: <strong>Multimodal RL</strong>
   slides:
-  annotated:
   video:
   topics:
     - Deep Q learning <br />
@@ -181,7 +180,6 @@
   title: >
     9.1: <strong>Discriminative graphical models</strong>
   slides:
-  annotated:
   video:
   topics:
     - Conditional random fields <br />
@@ -194,7 +192,6 @@
   title: >
     9.2: <strong>Multimodal Translation</strong>
   slides:
-  annotated:
   video:
   topics:
     - Language and vision <br />
@@ -207,7 +204,6 @@
   title: >
     10.1: <strong>Fusion, co-learning and new directions</strong>
   slides:
-  annotated:
   video:
   topics:
     - Multi-kernel learning and fusion <br />
@@ -220,7 +216,6 @@
   title: >
     10.2: <strong>Generative models and new directions </strong>
   slides:
-  annotated:
   video:
   topics:
     - Variational auto-encoder <br />
@@ -241,7 +236,6 @@
   title: >
     12.1: <strong>Language, vision and action</strong>
   slides:
-  annotated:
   video:
   topics:
     - Multimodal representations and RL
@@ -253,7 +247,6 @@
   title: >
     12.2: <strong>Multilingual representations</strong>
   slides:
-  annotated:
   video:
   topics:
     - Neural machine translation
@@ -273,7 +266,6 @@
   title: >
     14.1: <strong>Multimodal affective computing</strong>
   slides:
-  annotated:
   video:
   topics:
     - Emotion and sentiment analysis
@@ -285,9 +277,7 @@
   title: >
     14.2: <strong>New research directions</strong>
   slides:
-  annotated:
   video:
-  notes:
   readings:
   logistics:
 
