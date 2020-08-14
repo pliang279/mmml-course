@@ -9,3 +9,27 @@
     - Course syllabus and requirements
   readings:
   logistics:
+  
+  - date: 9/3
+  lecturer: LP
+  title: >
+    1.2: <strong>Multimodal applications and datasets</strong>
+  slides:
+  video:
+  topics:
+    - Research tasks and datasets <br/>
+    - Team projects
+  readings:
+  logistics:
+
+- date: 9/8
+  lecturer: LP
+  title: >
+    2.1: <strong>Basic concepts: neural networks</strong>
+  slides:
+  video:
+  topics:
+    - Language, visual and acoustic <br/>
+    - Loss functions and neural networks
+  readings:
+  logistics:
