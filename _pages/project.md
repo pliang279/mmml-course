@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /project/
+permalink: /fall2020/project/
 title: Course Project
 description: Guidelines and suggestions for course projects
 ---
