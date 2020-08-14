@@ -1,7 +1,7 @@
 - date: 9/1
   lecturer: LP
   title: >
-    <strong>Course introduction</strong>
+    1.1: <strong>Course introduction</strong>
   slides:
   annotated:
   video:
@@ -15,7 +15,7 @@
 - date: 9/3
   lecturer: LP
   title: >
-    <strong>Multimodal applications and datasets</strong>
+    1.2: <strong>Multimodal applications and datasets</strong>
   slides:
   annotated:
   video:
@@ -29,52 +29,56 @@
 - date: 9/8
   lecturer: LP
   title: >
-    <strong>Basic concepts: neural networks</strong> <br/>
-    -  Language, visual and acoustic <br/>
-    - Loss functions and neural networks
+    2.1: <strong>Basic concepts: neural networks</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Language, visual and acoustic <br/>
+    - Loss functions and neural networks
   readings:
   logistics:
 
 - date: 9/10
   lecturer: LP
   title: >
-    <strong>Basic concepts: network optimization</strong> <br/>
-    - Gradients and backpropagation <br/>
-    - Practical deep model optimization
+    2.2: <strong>Basic concepts: network optimization</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Gradients and backpropagation <br/>
+    - Practical deep model optimization
   readings:
   logistics:
 
 - date: 9/15
   lecturer: LP
   title: >
-    <strong>Convolutional neural networks</strong> <br/>
-    - Convolutional kernels and CNNs <br/>
-    - Residual network and skip connection
+    3.1: <strong>Convolutional neural networks</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Convolutional kernels and CNNs <br/>
+    - Residual network and skip connection
   readings:
   logistics:
 
 - date: 9/17
   lecturer: LP
   title: >
-    <strong>Recurrent neural networks</strong> <br />
-    - Gated networks and LSTM
-    - Backpropagation Through Time
+    3.2: <strong>Recurrent neural networks</strong>
   slides:
   annotated:
   video:
   notes:
+  topics:
+    - Gated networks and LSTM <br/>
+    - Backpropagation Through Time
   readings:
   logistics:
 
